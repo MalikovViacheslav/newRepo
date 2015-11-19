@@ -1,1 +1,2 @@
-Hello world! My name is Braindead!
+print("Hello world! My name is Braindead!")
+print("Hi")
